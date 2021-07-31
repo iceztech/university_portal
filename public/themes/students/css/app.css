@@ -1,0 +1,32 @@
+@import url('../../assets/utme/css/normalize.css');
+@import url('../../assets/utme/css/main.css');
+@import url('../../assets/utme/css/bootstrap.min.css');
+@import url('../../assets/utme/css/all.min.css');
+@import url('../../assets/utme/fonts/flaticon.css');
+@import url('../../assets/utme/css/fullcalendar.min.css');
+@import url('../../assets/utme/css/animate.min.css');
+@import url('../../assets/utme/css/select2.min.css');
+@import url('../../assets/utme/css/datepicker.min.css');
+@import url('../../assets/utme/css/style.css');
+@import url('utme-custom.css');
+
+
+
+/*
+
+    <link rel="stylesheet" href="css/normalize.css">
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="css/main.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Fontawesome CSS -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <!-- Flaticon CSS -->
+    <link rel="stylesheet" href="fonts/flaticon.css">
+    <!-- Full Calender CSS -->
+    <link rel="stylesheet" href="css/fullcalendar.min.css">
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="css/animate.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+ */

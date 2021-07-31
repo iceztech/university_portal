@@ -1,0 +1,103 @@
+
+
+.lpc{
+	display: block;
+}
+
+.lpw{
+	position: relative;
+	background-repeat: repeat;
+	height: auto;
+}
+.lpc .sp{
+	color: red;
+	text-align: center;	
+}
+.pad-center{
+	/* padding-bottom:25%; */
+	position:relative;
+	top:25%;
+	/* bottom:25%; */
+}
+.item-icon2{
+	position: relative;
+	height: 85px;
+	width: 85px;
+	line-height: 85px;
+	border-radius: 50%;
+	text-align: center;
+	left:33%
+}
+.dashboard-summery-one .item-icon2 i::before {
+	margin-left: 0;
+	font-size: 44px;
+}
+.item-title-custom h3{
+	padding-top:20px;
+	font-weight:500;
+	margin-bottom:2px;
+}
+.alert{
+	font-size:15px;
+}
+.new-added-form{
+	padding-top: 40px;
+}
+.nav-item a{
+	color:#646464
+}
+.nav-tabs a.nav-link.active {
+	color: #3d5afe;
+}
+.mb1{
+	margin: 10px 0 10px 0;
+}
+table tr input {
+	width: 100%;
+	font-size: 16px !important;
+	border: 1px solid #ededed !important;
+}
+.preview-info .form-control {
+	width: 100%;
+	font-size: 16px !important;
+	border: 1px solid #ededed !important;
+	margin-bottom: 16px;
+}
+/*Cut from here when moving style sheets*/
+.form-check label::before{
+	border: 2px solid #000000;
+	border-radius: 5px;
+}
+.form-check input[type="checkbox"]:checked + label::before {
+	background-color: transparent;
+	border-color: #000;
+}
+table tr input {
+	width: 100%;
+	font-size: 16px !important;
+	border: 1px solid #ededed !important;
+}
+.preview-info .form-control {
+	width: 100%;
+	font-size: 16px !important;
+	border: 1px solid #ededed !important;
+	margin-bottom: 16px;
+}
+td .form-group.ml-8.mt-3 .btn-fill-sm {
+	border-radius: 50px;
+	color: #fff;
+	padding: 10px 20px;
+}
+.form-group.ml-8.mt-3 button:last-child{
+	margin-left:10px;
+}
+.table td, .table th {
+	vertical-align: middle !important;
+	padding: 3px 20px;
+}
+.pad-10 td, .pad-10 th {
+	padding: 10px 20px;
+}
+#image-img {
+	cursor: pointer;
+}
