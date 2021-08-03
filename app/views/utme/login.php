@@ -31,6 +31,6 @@
                 </form>
                 
             </div>
-            <div class="sign-up">Don't have an account ? <a href="#">Signup now!</a></div>
+            <div class="sign-up">Don't have an account ? <a href="<?=SR."/register/jamb-verification"?>">Signup now!</a></div>
         </div>
     </div>

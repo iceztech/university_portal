@@ -17,7 +17,7 @@ trait RenderLecturers
     }
     public function uploadResults ()
     {
-        $courses = DepartmentCourses::where("departmental_course = '4'")::relatedToMix([
+        $courses = DepartmentCourses::relatedToMix([
             'departmental_course' => RegisteredCourses::class,
             '-course' => Courses::class,
             '-department' => Departments::class

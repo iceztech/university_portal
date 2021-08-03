@@ -1,7 +1,5 @@
 <?php
 namespace Zikzay\Controller;
-
-
 use Zikzay\Controller\Traits\AdminCreateAuth;
 use Zikzay\Controller\Traits\LecturerCreateAuth;
 use Zikzay\Controller\Traits\PUTMECreateAuth;
